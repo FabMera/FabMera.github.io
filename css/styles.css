@@ -1,0 +1,23 @@
+
+html {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+
+}
+
+
+form{
+    margin: 45px;
+    padding: 2.5rem;
+    
+}
+h1{
+    color:floralwhite;
+    
+}
+p{
+    color: darkcyan;
+}
+h5{
+    color:darkslategray;
+}
